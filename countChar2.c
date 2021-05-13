@@ -1,10 +1,3 @@
-/***************************************
-* EECS2031ON – Lab1 *
-* Author: Oh, Donghyeon *
-* Email: bdo@my.yorku.ca*
-* eecs_username: bdo *
-* York Student #: 217766098
-****************************************/
 #include <stdio.h> // define EOF
 
 int main(){
